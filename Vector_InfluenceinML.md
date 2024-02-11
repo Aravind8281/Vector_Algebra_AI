@@ -1,6 +1,6 @@
 **Contribution of Addition and Scalar Multiplication in Data Preprocessing:**
 
-1. **Standardization (Z-score normalization):**
+1. **Standardization (Z-score normalization):** 
    - **Scalar Multiplication:** In standardization, each feature (column) in the dataset is scaled by subtracting the mean and dividing by the standard deviation. This involves scalar multiplication to achieve a consistent scale for all features.
 
    - **Addition:** Subtracting the mean during standardization involves addition, ensuring that the distribution of each feature has a mean of zero.
